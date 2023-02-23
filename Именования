@@ -1,0 +1,6 @@
+king = 'King Balon the 6th'
+
+room_num = 6
+family_gen = 17
+print(king + ' has ' + str(room_num * family_gen) + ' rooms.')
+
