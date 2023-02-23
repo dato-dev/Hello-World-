@@ -1,0 +1,7 @@
+value = "-42"
+
+
+value = int(value)
+value = abs(value)
+
+print(value)
