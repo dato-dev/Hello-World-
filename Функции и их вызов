@@ -1,0 +1,6 @@
+company1 = "Apple"
+company2 = "Samsung"
+
+result = len(company1 + company2)
+print(result)
+
